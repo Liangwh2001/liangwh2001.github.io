@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://page.liangwh.cn</id>
+    <id>http://blog.liangwh.cn</id>
     <title>lwh的小站</title>
-    <updated>2020-02-29T14:12:39.098Z</updated>
+    <updated>2020-02-29T16:29:41.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://page.liangwh.cn"/>
-    <link rel="self" href="http://page.liangwh.cn/atom.xml"/>
+    <link rel="alternate" href="http://blog.liangwh.cn"/>
+    <link rel="self" href="http://blog.liangwh.cn/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://page.liangwh.cn/images/avatar.png</logo>
-    <icon>http://page.liangwh.cn/favicon.ico</icon>
+    <logo>http://blog.liangwh.cn/images/avatar.png</logo>
+    <icon>http://blog.liangwh.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, lwh的小站</rights>
     <entry>
         <title type="html"><![CDATA[Hello World!!!]]></title>
-        <id>http://page.liangwh.cn/post/hello-world/</id>
-        <link href="http://page.liangwh.cn/post/hello-world/">
+        <id>http://blog.liangwh.cn/post/hello-world/</id>
+        <link href="http://blog.liangwh.cn/post/hello-world/">
         </link>
         <updated>2020-02-29T14:04:50.000Z</updated>
         <content type="html"><![CDATA[<p>Hello World!!!</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://page.liangwh.cn/post/hello-gridea/</id>
-        <link href="http://page.liangwh.cn/post/hello-gridea/">
+        <id>http://blog.liangwh.cn/post/hello-gridea/</id>
+        <link href="http://blog.liangwh.cn/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
